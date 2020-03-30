@@ -13,10 +13,6 @@ const api = "https://manage.allaglobal.com:7443/allamanager";
 export const getList = () => async dispatch => {
   try {
     const res = await axios.get(`/api/v1/store/list`);
-    // const res = await axios({
-    //   method: "get",
-    //   url: "https://manage.allaglobal.com:7443/allamanager/api/v1/store/list"
-    // });
     dispatch({ type: LIST_LOAD_FOR_TYPE, payload: res.data });
   } catch (error) {
     dispatch({ type: LIST_LOAD_FAIL, payload: "---FAIL---" + error });
