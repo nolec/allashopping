@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#505050;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__icon_shop_menu" transform="translate(-27.372 -586.553)">
+        <path id="prefix__bg_collider" d="M0 0H30V30H0z" transform="translate(27.372 586.553)" style="fill:none"/>
+        <path id="prefix__선_11" d="M20 0L0 0" class="prefix__cls-2" data-name="선 11" transform="translate(32.372 593.553)"/>
+        <path id="prefix__선_12" d="M20 0L0 0" class="prefix__cls-2" data-name="선 12" transform="translate(32.372 601.553)"/>
+        <path id="prefix__선_13" d="M20 0L0 0" class="prefix__cls-2" data-name="선 13" transform="translate(32.372 609.553)"/>
+    </g>
+</svg>

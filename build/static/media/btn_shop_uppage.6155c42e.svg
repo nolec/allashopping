@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" viewBox="0 0 66 66">
+    <defs>
+        <filter id="prefix__타원_105" width="66" height="66" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".42"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="prefix__btn_shop_uppage" transform="translate(-285 -472)">
+        <g transform="translate(285 472)">
+            <circle id="prefix__타원_105-2" cx="24" cy="24" r="24" data-name="타원 105" transform="translate(9 9)" style="fill:#505050;opacity:.4"/>
+        </g>
+        <path id="prefix__합치기_25" d="M2760-7126a1 1 0 01-1-1v-6h-2.553a2 2 0 01-1.736-2.991l4.553-7.969a2 2 0 013.474 0l4.553 7.969a2 2 0 01-1.736 2.991H2763v6a1 1 0 01-1 1z" data-name="합치기 25" transform="translate(-2443 7633)" style="fill:#fff"/>
+        <text id="prefix__맨위로" transform="translate(318 520)" style="font-size:10px;font-family:NotoSansCJKkr-Regular,Noto Sans CJK KR;fill:#fff">
+            <tspan x="-13.8" y="0">맨위로</tspan>
+        </text>
+    </g>
+</svg>
