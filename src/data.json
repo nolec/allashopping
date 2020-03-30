@@ -1,0 +1,233 @@
+{
+  "page": {
+    "pageNo": 1,
+    "pageSize": 20,
+    "pageCount": 12,
+    "listCount": 20,
+    "totalRecordSize": 224
+  },
+  "result": "ok",
+  "list": [
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330012,
+      "price": 1794450,
+      "company": null,
+      "name": "삼성전자 스마트 에어컨 멀티형 AF16M6476LZR",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330012.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330013,
+      "price": 1674750,
+      "company": null,
+      "name": " LG멀티에어컨 FQ17V8WWJ2",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330013.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330014,
+      "price": 783993,
+      "company": null,
+      "name": "LG전자 코드제로 A9 무선청소기 A958SA",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330014.png"
+    },
+    {
+      "type": 2,
+      "category": "29",
+      "id": 290003,
+      "price": 16300,
+      "company": null,
+      "name": "곰곰 2019년 소중한 우리 쌀 무농약 현미",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/290003.png"
+    },
+    {
+      "type": 2,
+      "category": "22",
+      "id": 220014,
+      "price": 13541,
+      "company": null,
+      "name": "언어의 온도",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/220014.png"
+    },
+    {
+      "type": 2,
+      "category": "32",
+      "id": 320021,
+      "price": 24700,
+      "company": null,
+      "name": "액츠 파워젤 대용량 액체 세탁세제 본품",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/320021.png"
+    },
+    {
+      "type": 2,
+      "category": "32",
+      "id": 320022,
+      "price": 13300,
+      "company": null,
+      "name": "퍼실 하이진젤 드럼용 액상세제 용기",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/320022.png"
+    },
+    {
+      "type": 2,
+      "category": "32",
+      "id": 320023,
+      "price": 9700,
+      "company": null,
+      "name": "액츠 파워젤 드럼용 액상세제 본품",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/320023.png"
+    },
+    {
+      "type": 2,
+      "category": "22",
+      "id": 220015,
+      "price": 13258,
+      "company": null,
+      "name": "너에게만 좋은 사람이 되고 싶어(리커버 한정판):유귀선 에세이",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/220015.png"
+    },
+    {
+      "type": 2,
+      "category": "22",
+      "id": 220016,
+      "price": 13258,
+      "company": null,
+      "name": "여행의 이유 (김영하 산문)",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/220016.png"
+    },
+    {
+      "type": 2,
+      "category": "28",
+      "id": 280007,
+      "price": 12600,
+      "company": null,
+      "name": "에뛰드하우스 플레이 컬러 아이즈 섀도우 팔레트",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/280007.png"
+    },
+    {
+      "type": 2,
+      "category": "28",
+      "id": 280008,
+      "price": 20200,
+      "company": null,
+      "name": "클리오 프로 아이 팔레트",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/280008.png"
+    },
+    {
+      "type": 2,
+      "category": "28",
+      "id": 280009,
+      "price": 10900,
+      "company": null,
+      "name": "여우화장대 필터 쿠션부스터 메이크업베이스 40ml",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/280009.png"
+    },
+    {
+      "type": 2,
+      "category": "29",
+      "id": 290001,
+      "price": 10000,
+      "company": null,
+      "name": "촉촉한 푸룬",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/290001.png"
+    },
+    {
+      "type": 2,
+      "category": "29",
+      "id": 290002,
+      "price": 27600,
+      "company": null,
+      "name": "곰곰 2019년 소중한 우리 쌀 현미와 백미",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/290002.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330006,
+      "price": 618387,
+      "company": null,
+      "name": "LG전자 트롬 건조겸용 드럼세탁기 FR9WK 9kg 방문설치",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330006.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330007,
+      "price": 1179150,
+      "company": null,
+      "name": "LG전자 스타일러 S3RER 브라운 방문설치",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330007.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330008,
+      "price": 275310,
+      "company": null,
+      "name": "삼성전자 블루스카이 공기청정기 AX40N3030WMD 40㎡ 최신형",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330008.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330009,
+      "price": 723282,
+      "company": null,
+      "name": "LG전자 퓨리케어 360도 공기청정기 AS180DWFC 58㎡",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330009.png"
+    },
+    {
+      "type": 2,
+      "category": "33",
+      "id": 330010,
+      "price": 1865850,
+      "company": null,
+      "name": "LG전자 울트라 HD 인공지능 TV 75UK7400KNA",
+      "flagNew": "0",
+      "flagEvent": "0",
+      "imageUrl": "https://manage.allaglobal.com:7443/allamanager/upload/shop_coupon/330010.png"
+    }
+  ],
+  "etcData": null
+}
